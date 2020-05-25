@@ -1,6 +1,5 @@
-# PIC Firmware
+## PIC Firmware
 
-## Objetivo
-Avaliação para cadeira de micrcontroladores do curso de Engenharia da Computação. 
-O firmware tem como objetivo realizar a leitura de um teclado matricial e simular uma urna para votação.
-Nesse caso foi utilizado um microcontrolador da família PIC.
+### Desenvolvimento
+- Firmware desenvolvido para cadeira de Microcontroladores, curso Engenharia da Computação
+- Ferramenta para desenvolvimento - https://www.microchip.com/mplab/mplab-x-ide
